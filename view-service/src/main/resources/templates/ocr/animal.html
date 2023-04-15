@@ -1,25 +1,3 @@
-<!-- ctrl+/ 注释 -->
-<!-- ctrl+s 保存 -->
-<!-- ctrl+x 剪切 -->
-<!-- ctrl+d 删除 -->
-<!-- alt+/ 自动提示代码块，补全代码块 -->
-
-<!-- H5大前端 -->
-<!-- 传统：PC浏览器可看、可以交互网页应用 -->
-<!-- 网页：html标签、css样式、js脚本 -->
-<!-- html：网页的内容展示 -->
-<!-- 语法：<关键字/>|<关键字>内容</关键字> -->
-<!-- 标签种类：
-	 1.块元素：显示一整行
-	 2.行内元素：可以同行显示-->
-<!-- 标签种类：
-	 1.容器标签：div(块)、span(行内)
-	 2.显示标签：p、h～、img、audio、video
-	 3.表单：form、input、textarea、checkbox...
-	 4.按钮：button
-	-->
-
-<!-- DOCTYPE 文档类型 html -->
 <!DOCTYPE html>
 <!-- html标签：最大，约束 -->
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
@@ -35,6 +13,11 @@
     <!-- 2.在head标签内部使用link导入外部样式 -->
     <!-- 3.href 可以通过url、相对、绝对地址访问 -->
     <link rel="stylesheet" type="text/css" th:href="@{/css/ocr/animal.css}" href="css/ocr/animal.css"/>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/result.css}" href="css/result.css"/>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/body.css}" href="css/body.css"/>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/ocr/simple.css}" href="css/simple.css"/>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/img_file.css}" href="css/img_file.css"/>
+    <link rel="stylesheet" type="text/css" th:href="@{/css/show_img.css}" href="css/show_img.css"/>
 
 
     <!-- Jquery脚本框架：轻量级，完美嵌入原生js -->
