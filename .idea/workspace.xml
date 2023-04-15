@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f33976f7-d1b1-4034-b110-fd204e7f7473" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/commons/src/main/resources/templates/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/face-service/src/main/java/com/cheng/controller/FaceController.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven" />
+        <option name="mavenHome" value="D:/apache-maven-3.8.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ONFhcvreTSmmQeP4AwJP4pQoCt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/aip-java-sdk-4.16.14",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "spring.configuration.checksum": "eeeef0cc47f7634fae7fa1cdb74cb269",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jvm\SpringBaiduAI\orc-service\src\main\resources" />
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\static" />
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\static\css\nlp" />
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\static\js\nlp" />
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\templates\nlp" />
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\templates\speech" />
+      <recent name="E:\jvm\SpringBaiduAI\commons\src\main\resources\static\js\speech" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpeechApplication">
+    <configuration name="FaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="face-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cheng.FaceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="commons" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cheng.IndexApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NlpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nlp-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cheng.NlpApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="orc-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cheng.OrcApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeechApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="speech-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cheng.SpeechApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpeechApplication" />
+      <item itemvalue="Spring Boot.IndexApplication" />
+      <item itemvalue="Spring Boot.FaceApplication" />
+      <item itemvalue="Spring Boot.NlpApplication" />
+      <item itemvalue="Spring Boot.OrcApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpeechApplication" />
+        <item itemvalue="Spring Boot.IndexApplication" />
+        <item itemvalue="Spring Boot.FaceApplication" />
+        <item itemvalue="Spring Boot.NlpApplication" />
+        <item itemvalue="Spring Boot.OrcApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f33976f7-d1b1-4034-b110-fd204e7f7473" name="变更" comment="" />
+      <created>1681393257235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681393257235</updated>
+      <workItem from="1681393258383" duration="6921000" />
+      <workItem from="1681401167809" duration="4370000" />
+      <workItem from="1681434479131" duration="31665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/speech-service/src/main/java/com/cheng/controller/SpeechController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
