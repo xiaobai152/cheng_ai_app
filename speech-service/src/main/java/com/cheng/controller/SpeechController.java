@@ -44,7 +44,6 @@ public class SpeechController {
     @PostMapping("listen")
     public String listen(MultipartFile file) throws IOException {
         AipSpeech aipSpeech = AipSpeechSimple.getAipSpeech();
-
         JSONObject asr = aipSpeech.asr(file.getBytes(), "pcm", 16000, null);
         return asr.toString();
 

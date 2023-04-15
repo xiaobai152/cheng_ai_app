@@ -29,6 +29,7 @@ import java.util.Random;
 @RestController
 public class OcrController {
 
+
     private final static String[] option = {"cartoon","pencil","color_pencil","warm","wave","lavender","mononoke","scream","gothic"};
 
     @PostMapping("text")

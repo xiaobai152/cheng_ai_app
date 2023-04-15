@@ -28,7 +28,7 @@ $(document).ready(function () {
 
             },
             error: function (resp) {
-
+                alert(resp)
             }
         }
         $.ajax(config);
