@@ -5,3 +5,10 @@ spring:
     multipart:
       max-file-size: 10MB
 
+
+  application:
+    name: view-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7777/eureka

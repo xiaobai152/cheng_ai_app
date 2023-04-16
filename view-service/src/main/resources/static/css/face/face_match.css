@@ -24,3 +24,15 @@
     /* 透明度 */
     opacity: 0;
 }
+
+.show_img{
+    height: 50% !important;
+}
+
+.input{
+    flex: 3 !important;
+}
+
+.results{
+    flex: 1 !important;
+}

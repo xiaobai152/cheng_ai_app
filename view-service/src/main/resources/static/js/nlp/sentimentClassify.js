@@ -1,17 +1,3 @@
-// JQuery框架
-// 轻量化，简单易使用，替代原生JS
-// 语法：$(select,create).action();
-// 查询语法：$("tag,.class,#id,tag #id").action();
-// 创建语法：$("<a>");
-// 修改属性：$("#submit").attr({"class|id|value|href|src":value});
-// 修改样式：$("#submit").css({"style":value});
-// 修改内容：$("#submit").html("<a>xxxx</a>"); $("#submit").text("xxxx");
-// 修改表单input.value：$("#input").val("xxxxxx");
-// 添加事件：$(tag).cilik(function(){});
-
-// 延迟加载JS
-// 异步、同步、getScript()、导包在body之后、setTimeInterval()
-
 $(document).ready(function () {
 
     // 1.完成输入框的状态监听，同步输入长度
@@ -44,7 +30,6 @@ $(document).ready(function () {
             async: true, // async true 异步 false 同步
             success: function (resp) { // 成功：200
                 // resp 返回数据
-                console.log(resp);
 
                 // 局部更新
                 // dataType:"JSON" 服务器返回JSON字符串，自动帮你转换字符串，转成JSON格式

@@ -18,7 +18,6 @@ $(document).ready(function () {
             processData: false, // 关闭数据验证
             contentType: false, // 关闭类型验证
             success: function (resp) {
-                console.log(resp)
                 // 动态标签更新
                 if (resp.err_msg == "success.") {
                     $("#text").text(resp.result[0])

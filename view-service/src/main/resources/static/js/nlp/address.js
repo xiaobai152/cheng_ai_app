@@ -45,7 +45,6 @@ $(document).ready(function(){
             async:true, // async true 异步 false 同步
             success:function (resp) { // 成功：200
                 // resp 返回数据
-                console.log(resp);
 
                 $("#province").text(resp.province);
                 $("#city").text(resp.city);
